@@ -6,7 +6,7 @@
     border: 1px solid;
     text-align: center;
 }
-.rodape{
+.rodape {
     color:red;
     border: 1px dotted;
     bottom: 0;
@@ -30,6 +30,10 @@
     position: absolute;
     top: 50%;
     left: 50%;
-
-    
+    transform: translate(-50%, -50%);
+}
+input , button{
+    display: block;
+    padding: 5px;
+    margin: 5px;
 }
