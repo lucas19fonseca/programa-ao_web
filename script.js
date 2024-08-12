@@ -3,9 +3,14 @@ let botaosubmeter= document.getElementById("botao-submeter");
 
 botaosubmeter.addEventListener("click",submeter);
 
-console.log(elementoNome);
 
 function submeter() {
     let elementoNome = document.getElementById("nome").value;
-    console.log(elementoNome)
+    let elementoIdade = document.getElementById("idade").value;
+    let elementoEmail = document.getElementById("email").value;
+
+    console.log(elementoNome);
+    console.log(elementoIdade);
+    console.log(elementoEmail);
+
 }
