@@ -1,6 +1,3 @@
 # programacao_web
 
-
-primeira aula de programaçao web
-
-alteraçcao local 
+Atualmente, estou praticando JavaScript.Estou desenvolvendo uma tela de registro do zero. 
